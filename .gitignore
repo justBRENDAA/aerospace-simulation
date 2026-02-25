@@ -1,0 +1,13 @@
+# VS local settings
+.vs/
+*.user
+*.suo
+
+# output folders
+Debug/
+Release/
+x64/
+x86/
+
+# log files
+*.log
